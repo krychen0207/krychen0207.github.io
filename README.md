@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html lang="zh-Hant">
 <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>個人網頁</title>
   <link rel="stylesheet" href="styles.css">
-</head>
 <head>
   <style> body{background-image: url('https://plus.unsplash.com/premium_photo-1666273175617-e8d2834f4fc0? ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8fDA%3D&w=1000&q=80');
       background-size: cover;
@@ -37,4 +35,3 @@
     <p style="color:#white;"> GitHub: <a  style="color:#87cefa;" href="https://github.com/krychen0207.github.io">https://krychen0207.github.io/#contact</a></p>
   </section>
 </body>
-</html>
