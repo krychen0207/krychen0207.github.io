@@ -34,7 +34,7 @@
   <section>
     <h2 style="color:white;">聯絡我</h2>
     <p style="color:#white;">Email: kc0207outlook.com</p>
-    <p style="color:#white;">GitHub: <a href style="color:#87cefa;"="https://github.com/krychen0207.github.io">https://krychen0207.github.io/#contact</a></p>
+    <p style="color:#white;"> GitHub: <a  style="color:#87cefa;" href="https://github.com/krychen0207.github.io">https://krychen0207.github.io/#contact</a></p>
   </section>
 </body>
 </html>
