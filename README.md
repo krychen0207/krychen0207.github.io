@@ -6,9 +6,7 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <head>
-  <style>
-    body {
-      background-image: url('https://plus.unsplash.com/premium_photo-1666273175617-e8d2834f4fc0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8fDA%3D&w=1000&q=80');
+  <style> body{background-image: url('https://plus.unsplash.com/premium_photo-1666273175617-e8d2834f4fc0? ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8fDA%3D&w=1000&q=80');
       background-size: cover;
     }
   </style>
@@ -21,6 +19,7 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmUCbsLN5vlcKur9CnBD_yBKbCu83OxA-nQ&usqp=CAU" alt="一隻鯊魚">
     </div>
   </section>
+  <section>
   <h2>經歷<h2>
     <ul>
         <p>幼稚園:六年</p>
@@ -32,12 +31,9 @@
      <ul>
        <body>
   </section>
-    <h3 style="color:white;">聯絡我</h3>
-    <pstyle="color:#white;">Email: kc0207outlook.com</p>
-    <p style="color:#white;">GitHub: <a href style="color:#87cefa;"="https://github.com/krychen0207.github.io">https://krychen0207.github.io/#contact</a></p>
-  </section>
-</body>
-</html>
+  <section>
+    <h2 style="color:white;">聯絡我</h2>
+    <p style="color:#white;">Email: kc0207outlook.com</p>
     <p style="color:#white;">GitHub: <a href style="color:#87cefa;"="https://github.com/krychen0207.github.io">https://krychen0207.github.io/#contact</a></p>
   </section>
 </body>
