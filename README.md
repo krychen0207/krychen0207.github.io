@@ -6,28 +6,23 @@
   <title>你的名字 - 個人網頁</title>
   <link rel="stylesheet" href="styles.css">
 </head>
+<head>
+  <style>
+    body {
+      background-image: url('https://plus.unsplash.com/premium_photo-1666273175617-e8d2834f4fc0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8fDA%3D&w=1000&q=80');
+      background-size: cover;
+    }
+  </style>
+</head>
 <body>
-  <header>
-    <h1>你的名字</h1>
-    <nav>
-      <ul>
-        <li><a href="#about">關於我</a></li>
-        <li><a href="#experience">經歷</a></li>
-        <li><a href="#contact">聯絡我</a></li>
-      </ul>
-    </nav>
-  </header>
-
   <section id="about">
     <h2>關於我</h2>
+    <p>我是資工二甲的陳帥齊，興趣是打排球和玩電腦</p>
     <div id="profile-picture">
-      <img src="your_profile_picture.jpg" alt="Your Profile Picture">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmUCbsLN5vlcKur9CnBD_yBKbCu83OxA-nQ&usqp=CAU" alt="一隻鯊魚">
     </div>
-    <p>這裡可以寫一段你自己的簡短介紹。</p>
   </section>
 
-  <section id="experience">
-    <h2>經歷</h2>
     <ul>
       <li>
         <h3>公司 A</h3>
