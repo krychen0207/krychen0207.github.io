@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>你的名字 - 個人網頁</title>
+  <title>個人網頁</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <head>
@@ -31,7 +32,7 @@
        <body>
   </section>
     <h3 style="color:white;">聯絡我</h3>
-    <p style="color:#white;">Email: kc0207outlook.com</p>
+    <p> style="color:#white;">Email: kc0207outlook.com</p>
     <p style="color:#white;">GitHub: <a href style="color:#87cefa;"="https://github.com/krychen0207.github.io">https://krychen0207.github.io/#contact</a></p>
   </section>
 </body>
