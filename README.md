@@ -1,8 +1,15 @@
 <html lang="zh-Hant">
 <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>個人網頁</title>
   <link rel="stylesheet" href="styles.css">
+        <script>
+$(document).ready(function() {
+    $("#target1").css("color", "red");
+    $("#target1").prop("disabled", true);
+    $("#target1").parent().css("background-color", "red");
+    $("#left-well").children().css("color", "red");
+});
+</script>
 <head>
   <style> body{background-image: url('https://plus.unsplash.com/premium_photo-1666273175617-e8d2834f4fc0? ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8fDA%3D&w=1000&q=80');
       background-size: cover;
@@ -10,13 +17,19 @@
   </style>
 </head>
 <body>
-  <section>
+  <div>
     <h2>關於我</h2>
     <p>我是資工二甲的陳帥齊，興趣是打排球和玩電腦</p>
     <div id="profile-picture">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmUCbsLN5vlcKur9CnBD_yBKbCu83OxA-nQ&usqp=CAU" alt="一隻鯊魚">
     </div>
+  </div>
   </section>
+  <div class="well" id="left-well">
+        <button class="btn btn-default target" id="target1">#出生地:台灣</button>
+        <button class="btn btn-default target" id="target2">#學校:輔大</button>
+        <button class="btn btn-default target" id="target3">#單身</button>
+      </div>
   <section>
   <h2>經歷<h2>
     <ul>
