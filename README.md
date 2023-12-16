@@ -9,7 +9,6 @@
         table {
             margin: auto;
             border-collapse: collapse;
-            background-color: #e0f8e0;
         }
 
         td {
@@ -31,7 +30,7 @@
     }
     </style>
 </head>
-<body>
+<body style="background-color:e0f8e0;">
     <h1><a href="https://quannnyu.github.io/">評分</a></h1>
     <body>
     <select style="border:2px black solid;font-size:15px;background-color:#E3E3E3;" onChange="location = this.options[this.selectedIndex].value;">
